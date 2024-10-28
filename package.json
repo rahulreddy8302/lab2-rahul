@@ -1,0 +1,12 @@
+{
+  "name": "lab2-weatherapp-rahul",
+  "version": "1.0.0",
+  "description": "In this lab you will build a weather app using Node.js and API calls.",
+  "main": "weatherapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
